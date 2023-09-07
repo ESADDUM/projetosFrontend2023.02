@@ -1,1 +1,1 @@
-Aula inicial de uso do GIT
+Arquivo readme.txt projeto02
